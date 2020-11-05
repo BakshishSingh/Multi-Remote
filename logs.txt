@@ -1,0 +1,12 @@
+
+ On Lobby 
+
+ Tournament clicked 62819 
+
+ Details fetched for Match # 62819 
+
+ Checking last entry for match 62819 
+
+ Opening match with Param string UID=0C7FCB6E-92AE-49C0-BE32-21598F33C449&TS=0&TournamentID=62819&LEVELS=28&HAMMER=5&BOMB=6&VACUUM=4&ROCKET=5&GM=3&MAXENTRIES=3&BASEURL=http://www.playtrophygames.com/ 
+
+ Posting Score UserName=bakshish101&DeviceID=0C7FCB6E-92AE-49C0-BE32-21598F33C449&TournamentID=62819&Score=2196 
